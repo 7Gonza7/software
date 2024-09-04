@@ -1,0 +1,2 @@
+# software
+ ejercicio git hub
